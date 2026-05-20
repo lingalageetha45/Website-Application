@@ -42,7 +42,7 @@ export default function Login({ setIsLoggedIn }) {
         <button type="submit">Login</button>
 
         <p className="hint">
-          Demo: admin@gmail.com / 1234
+          Enter: admin@gmail.com / 1234
         </p>
 
       </form>
